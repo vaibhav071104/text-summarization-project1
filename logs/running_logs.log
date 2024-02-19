@@ -7,3 +7,8 @@
 [2024-02-19 15:51:25,496: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-02-19 15:52:47,718: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-19 15:52:47,723: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-19 15:52:47,723: INFO: common: created directory at: artifacts]
+[2024-02-19 15:52:47,723: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-19 15:52:47,733: INFO: 1434958058: File already exists of size: ~ 7718 KB]
